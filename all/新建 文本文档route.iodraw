@@ -1,0 +1,291 @@
+<mxfile host="app.diagrams.net" modified="2026-01-19T00:00:00.000Z" agent="drawio" version="24.7.17">
+  <diagram id="Page-1" name="Page-1">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="Layer 1" parent="1"/>
+
+        <!-- OUTER DASHED BORDER -->
+        <mxCell id="3" value="" style="rounded=1;arcSize=12;dashed=1;dashPattern=3 3;strokeColor=#1F4E79;strokeWidth=2;fillColor=none;" vertex="1" parent="2">
+          <mxGeometry x="20" y="20" width="1560" height="860" as="geometry"/>
+        </mxCell>
+
+        <!-- MAIN TITLE BAR -->
+        <mxCell id="4" value="干旱胁迫下复苏植物旋蒴苣苔调控自噬阻抑细胞死亡的分子机制" style="rounded=1;arcSize=10;strokeColor=#1F4E79;strokeWidth=2;fillColor=#1F4E79;fontColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="200" y="35" width="1200" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- =========================
+             TOP MODULE 1 (LEFT)
+             ========================= -->
+        <mxCell id="10" value="" style="rounded=1;arcSize=12;dashed=1;dashPattern=3 3;strokeColor=#1F4E79;strokeWidth=2;fillColor=none;" vertex="1" parent="2">
+          <mxGeometry x="40" y="95" width="500" height="435" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="11" value="研究主题一：干旱/复水过程中自噬与细胞死亡&#xa;的时空动态与关键因子挖掘" style="rounded=1;arcSize=10;strokeColor=#1F4E79;strokeWidth=2;fillColor=#9DC3E6;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="55" y="102" width="470" height="46" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="12" value="" style="rounded=1;arcSize=10;strokeColor=#BFBFBF;strokeWidth=1;fillColor=#F2F2F2;" vertex="1" parent="2">
+          <mxGeometry x="55" y="152" width="470" height="365" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="13" value="样品处理与表型/组学采集" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#BDD7EE;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="162" width="410" height="26" as="geometry"/>
+        </mxCell>
+
+        <!-- rows: label + content -->
+        <mxCell id="14" value="材料与处理：" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="195" width="92" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="旋蒴苣苔｜土培干旱｜PEG模拟｜复水时序｜组织分区（叶/根）" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=6;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="180" y="195" width="315" height="26" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="16" value="生理表型：" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="226" width="92" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="17" value="含水量RWC｜水势｜光合Fv/Fm｜电解质渗漏｜MDA/ROS" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=6;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="180" y="226" width="315" height="26" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="18" value="自噬动态：" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="257" width="92" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="19" value="ATG8标记｜自噬通量（mCherry-GFP-ATG8）｜LysoTracker｜TEM自噬体" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=6;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="180" y="257" width="315" height="26" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="20" value="细胞死亡评估：" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="288" width="92" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="21" value="PI染色｜TUNEL｜Trypan blue｜caspase-like活性｜VPE/MC指标" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=6;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="180" y="288" width="315" height="26" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="22" value="多组学解析：" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="319" width="92" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="23" value="转录组RNA-seq｜蛋白组｜磷酸化组｜代谢组｜小RNA/lncRNA（可选）" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=6;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="180" y="319" width="315" height="26" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="24" value="同组学关联分析" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#BDD7EE;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="85" y="352" width="410" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="25" value="网络建模与关键因子筛选：&#xa;WGCNA模块｜差异通路（ABA/ROS/Ca2+）｜PPI网络｜关键节点锁定" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="85" y="383" width="410" height="55" as="geometry"/>
+        </mxCell>
+
+        <!-- down arrow under module 1 -->
+        <mxCell id="26" value="" style="shape=connector;endArrow=classic;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="530" as="sourcePoint"/>
+            <mxPoint x="290" y="555" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- =========================
+             TOP MODULE 2 (MIDDLE)
+             ========================= -->
+        <mxCell id="30" value="" style="rounded=1;arcSize=12;dashed=1;dashPattern=3 3;strokeColor=#1F4E79;strokeWidth=2;fillColor=none;" vertex="1" parent="2">
+          <mxGeometry x="560" y="95" width="500" height="435" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="31" value="研究主题二：关键调控因子介导自噬&#xa;抑制细胞死亡的机制解析" style="rounded=1;arcSize=10;strokeColor=#1F4E79;strokeWidth=2;fillColor=#9DC3E6;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="575" y="102" width="470" height="46" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="32" value="" style="rounded=1;arcSize=10;strokeColor=#BFBFBF;strokeWidth=1;fillColor=#F2F2F2;" vertex="1" parent="2">
+          <mxGeometry x="575" y="152" width="470" height="365" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="33" value="机制验证与通路解析" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#BDD7EE;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="605" y="162" width="410" height="26" as="geometry"/>
+        </mxCell>
+
+        <!-- left text blocks -->
+        <mxCell id="34" value="关键因子确定：&#xa;ATG核心因子｜受体NBR1｜TOR–SnRK1轴｜E3泛素连接酶｜关键转录因子（NAC/DREB/ABF）" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="605" y="195" width="240" height="64" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="35" value="表达与定位：&#xa;qPCR｜原位杂交（可选）｜亚细胞定位｜共聚焦成像" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="605" y="265" width="240" height="44" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="36" value="功能验证：&#xa;VIGS沉默｜瞬时表达｜CRISPR/过表达（模式植物拟南芥/烟草）｜抗旱表型验证" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="605" y="314" width="240" height="58" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="37" value="上游信号连接：&#xa;ABA信号｜ROS稳态｜Ca2+信号｜MAPK｜ER应激（可选）" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="605" y="377" width="240" height="48" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="38" value="互作与修饰：&#xa;Y2H｜BiFC｜Co-IP｜Pull-down｜磷酸化位点突变" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="605" y="430" width="240" height="44" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="39" value="作用机制指向：&#xa;选择性自噬（线粒体/叶绿体/ER）｜清除损伤蛋白｜降低ROS｜阻断PCD级联" style="rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="605" y="479" width="410" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- right "chart collage" area -->
+        <mxCell id="40" value="" style="rounded=1;arcSize=8;strokeColor=#BFBFBF;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="2">
+          <mxGeometry x="852" y="195" width="163" height="274" as="geometry"/>
+        </mxCell>
+
+        <!-- simple vector icons inside collage -->
+        <mxCell id="41" value="" style="shape=rectangle;rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#F8F8F8;" vertex="1" parent="2">
+          <mxGeometry x="862" y="205" width="143" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="42" value="" style="shape=rectangle;rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#F8F8F8;" vertex="1" parent="2">
+          <mxGeometry x="862" y="292" width="143" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="43" value="" style="shape=rectangle;rounded=1;arcSize=6;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#F8F8F8;" vertex="1" parent="2">
+          <mxGeometry x="862" y="379" width="143" height="78" as="geometry"/>
+        </mxCell>
+
+        <!-- bars icon -->
+        <mxCell id="44" value="" style="shape=rectangle;strokeColor=#1F4E79;fillColor=#9DC3E6;strokeWidth=1;" vertex="1" parent="2">
+          <mxGeometry x="872" y="255" width="10" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="45" value="" style="shape=rectangle;strokeColor=#1F4E79;fillColor=#9DC3E6;strokeWidth=1;" vertex="1" parent="2">
+          <mxGeometry x="887" y="245" width="10" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="46" value="" style="shape=rectangle;strokeColor=#1F4E79;fillColor=#9DC3E6;strokeWidth=1;" vertex="1" parent="2">
+          <mxGeometry x="902" y="238" width="10" height="35" as="geometry"/>
+        </mxCell>
+
+        <!-- line icon -->
+        <mxCell id="47" value="" style="shape=polyline;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="332" as="sourcePoint"/>
+            <mxPoint x="910" y="312" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="885" y="322"/>
+              <mxPoint x="895" y="328"/>
+              <mxPoint x="905" y="318"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- pie icon -->
+        <mxCell id="48" value="" style="shape=ellipse;strokeColor=#1F4E79;fillColor=#BDD7EE;strokeWidth=1;" vertex="1" parent="2">
+          <mxGeometry x="875" y="405" width="26" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="49" value="" style="shape=triangle;strokeColor=#1F4E79;fillColor=#9DC3E6;strokeWidth=1;" vertex="1" parent="2">
+          <mxGeometry x="888" y="405" width="13" height="13" as="geometry"/>
+        </mxCell>
+
+        <!-- down arrow under module 2 -->
+        <mxCell id="60" value="" style="shape=connector;endArrow=classic;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="530" as="sourcePoint"/>
+            <mxPoint x="810" y="555" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- =========================
+             TOP MODULE 3 (RIGHT)
+             ========================= -->
+        <mxCell id="70" value="" style="rounded=1;arcSize=12;dashed=1;dashPattern=3 3;strokeColor=#1F4E79;strokeWidth=2;fillColor=none;" vertex="1" parent="2">
+          <mxGeometry x="1080" y="95" width="500" height="435" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="71" value="干旱-自噬-细胞死亡调控网络与&#xa;抗旱评价体系构建" style="rounded=1;arcSize=10;strokeColor=#1F4E79;strokeWidth=2;fillColor=#9DC3E6;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1095" y="102" width="470" height="46" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="72" value="" style="rounded=1;arcSize=10;strokeColor=#BFBFBF;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="2">
+          <mxGeometry x="1095" y="152" width="470" height="365" as="geometry"/>
+        </mxCell>
+
+        <!-- top 4 small boxes -->
+        <mxCell id="73" value="关键基因&#xa;模块" style="rounded=1;arcSize=8;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1120" y="162" width="95" height="34" as="geometry"/>
+        </mxCell>
+        <mxCell id="74" value="调控网络&#xa;模型" style="rounded=1;arcSize=8;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1228" y="162" width="95" height="34" as="geometry"/>
+        </mxCell>
+        <mxCell id="75" value="分子标&#xa;志物" style="rounded=1;arcSize=8;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1336" y="162" width="95" height="34" as="geometry"/>
+        </mxCell>
+        <mxCell id="76" value="验证与&#xa;应用" style="rounded=1;arcSize=8;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1444" y="162" width="95" height="34" as="geometry"/>
+        </mxCell>
+
+        <!-- network nodes -->
+        <mxCell id="77" value="干旱信号(ABA/ROS/Ca2+)" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#2F5597;fontColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1205" y="205" width="250" height="26" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="78" value="TOR–SnRK1" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#1F4E79;fontColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1250" y="240" width="160" height="28" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="79" value="自噬(ATG8/NBR1/选择性自噬)" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#BDD7EE;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1220" y="280" width="220" height="28" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="80" value="细胞死亡(PCD)" style="rounded=1;arcSize=8;strokeColor=#7F0000;strokeWidth=1;fillColor=#C00000;fontColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1240" y="318" width="180" height="28" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="81" value="抗旱/复苏表型" style="rounded=1;arcSize=8;strokeColor=#1F4E79;strokeWidth=1;fillColor=#9DC3E6;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1435" y="318" width="120" height="28" as="geometry"/>
+        </mxCell>
+
+        <!-- labels near network -->
+        <mxCell id="82" value="关键节点/靶点" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="1415" y="242" width="140" height="20" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="83" value="关键节点/&#xa;靶点" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;rotation=-90;" vertex="1" parent="2">
+          <mxGeometry x="1110" y="248" width="70" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- network connectors -->
+        <mxCell id="84" value="" style="endArrow=classic;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2" source="77" target="78">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="85" value="" style="endArrow=classic;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2" source="78" target="79">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="86" value="" style="endArrow=tee;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2" source="79" target="80">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="87" value="" style="endArrow=classic;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2" source="80" target="81">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- bottom two long boxes -->
+        <mxCell id="88" value="抗旱表型评价指标体系（RWC、Fv/Fm、ROS、渗漏、存活率）" style="rounded=1;arcSize=8;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="1120" y="355" width="435" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="89" value="关键靶点清单与育种启示（可写：靶点/标志物/分子设计方向）" style="rounded=1;arcSize=8;strokeColor=#7F7F7F;strokeWidth=1;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=11;" vertex="1" parent="2">
+          <mxGeometry x="1120" y="392" width="435" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- down arrow under module 3 -->
+        <mxCell id="90" value="" style="shape=connector;endArrow=classic;endFill=1;strokeColor=#1F4E79;strokeWidth=2;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="530" as="sourcePoint"/>
+            <mxPoint x="1330" y="555" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- =========================
+             BOTTOM FOUR SECTIONS
+             ========================= -->
+
+        <!-- bottom headers -->
+        <mxCell id="100" value="主要的研究主题1" style="rounded=1;arcSize=10;strokeColor=#1F4E79;strokeWidth=2;fillColor=#9DC3E6;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="40" y="565" width="360" height="32" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="101" value="科学问题" style="rounded=1;arcSize=10;strokeColor=#1F4E79;strokeWidth=2;fillColor=#9DC3E6;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" vertex="1" parent="2">
+          <mxGeometry x="420" y="565" width="360" height="32" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="102" value="主要的研究主题2"
